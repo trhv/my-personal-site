@@ -31,7 +31,7 @@ export default class Sidebar extends Component {
                 <li><a href="https://twitter.com/AShustimov" target="_blank"><i className="icon-twitter2" /></a></li>
                 <li><a href="https://www.instagram.com/trhv_sh/" target="_blank"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/arye-shustimov-8bb11434/" target="_blank"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://github.com/Dhruv34788" target="_blank"><i className="icon-github"></i></a></li>
+                <li><a href="https://github.com/trhv" target="_blank"><i className="icon-github"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
@@ -40,7 +40,7 @@ export default class Sidebar extends Component {
                   Thanks <a href="https://colorlib.com" target="_blank">Colorlib</a> for inspiration 
               </small></p>
               <p><small>
-                  Automated deployment on gh-pages using Travis-CI
+                  Automated deployment on gh-pages
               </small></p>
             </div>
           </aside>

@@ -1,6 +1,6 @@
 {
-    "aboutMe": "Hard-working junior ​web developer, eager to learn and evolve as a software and web developer in particular , currently enrolled to the open university, and a front end bootcamp graduate. An amature photographer at my spare time and a big time sports fan.Computer programmer with a track record for working efficiently in a fast-paced environment while multitasking on numerous projects, both independently and on a team. Proven leader and project manager with a can-do attitude. Skills include C, C++, C#, and Java.A self-learner of new technologies, In addition, Worked with teams using AGILE methods and experienced with editing software like PHOTOSHOP, video editing and more.True passion and love for creating pixel perfect client-side websites. I have over 15 years of experience in HTML and CSS include management teams. I’m highly motivated, with strong learning skills and a team player.  Specialties: HTML5, CSS3, UI/UXAn Autodidact with blend technology knowledge with the desire and the passion to excel in the field of technology.Hi Tech professional with extensive knowledge in Software development. I have been professionally creating and developing software for over 6 years, specializing in .Net, Web and enterprise applications. Team player with an excellent communication skills and self-learning capabilities, Highly determined and dedicated with a real passion for development technologies. Always looking for new opportunities.",
-    "experties": [
+    "aboutMe": "I am an enthusiastic developer that strives to learn something new every day. One of my greatest passions is programming and I aspire to master it.\nI view Software development as both an art form and a profession, and I'm an advocate for Software Craftsmanship and Clean Code methodologies.",
+    "expertness": [
         {
             "name": "Web Development1",
             "description": "I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS",
@@ -38,29 +38,29 @@
             "companySite": "https://codevalue.net/",
             "years": "2016 – 2019",
             "title": "Senior Full-Stack Developer",
-            "description": "Full-stack Developer, working on several projects: \n\t- “Symantec”,  Full-stack developer, Web application, Working on the management product. Design and implementation of role -based authorization, and RADIUS Authentication in the system. \n\t    Development in AngularJS, ES6, TypeScript, NodeJS.\n\t- “RAFAEL”,  Full-stack developer, Desktop and Web applications, Design, and implementation of Rest API's. \n\t    Development - Wpf, Xaml, C #, NodeJS, Python\n\n As part of my work, I conducted technical telephone interviews for candidates."
+            "description": "Senior Developer and consultant in multiple software projects for numerous clients. Providing cutting edge solutions for both client side and server side applications.\n\nSelected Projects:\n»» Architected and led the implementation of Role-Based authorization, and RADIUS Authentication in a single page web application. \n\n  »» Programmed, tested, and implemented a MicroServices-based, 3d model generator Web server for a government client using NodeJS, express and Python.\n\n As part of my work, I conducted technical telephone interviews for candidates."
         },
         {
             "company": "Intergraph",
             "companySite": "http://www.intergraph.com/",
             "years": "2015-2016",
             "title": "Full-Stack Developer",
-            "description": "Full-stack developer, Desktop application, building  modules from the characterization stage, UI, and implementation. \nAs part of my work, I created a number of web tools. Development - Wpf, Xaml, C #, .NodeJS, Python."
+            "description": "Full-stack developer, Desktop application, building  modules from the characterization stage, UI, and implementation. \nAs part of my work, I created a number of web tools."
         },
         {
             "company": "Iscar",
             "companySite": "https://www.iscar.com/index.aspx/countryid/1",
             "years": "2012-2015",
             "title": "Software Developer",
-            "description": "Front-end developer, Desktop application, As part of my job I was responsible for the development, characterization and implementation of components in the system. \nDevelopment in VB.NET, WPF, Xaml ."
+            "description": "Front-end developer, Desktop application, As part of my job I was responsible for the development, characterization and implementation of components in the system."
         },
         {
             "company": "Verint",
             "companySite": "https://www.verint.com",
             "years": "2011-2011",
             "title": "Software Developer",
-            "description": "Full-stack developer, desktop application, Development in C#, WPF, Xaml."
+            "description": "Full-stack developer."
         }
     ],
-    "education": "<b>B.Sc Software Engineering</b>, ORT Braude College in Karmiel, Holder of a Diploma of Electrical Engineering - Electronics, School of Technology Rodman Kiryat Yam ."
+    "education": "<b>B.Sc Software Engineering<\/b>, ORT Braude College in Karmiel, Holder of a Diploma of Electrical Engineering - Electronics, School of Technology Rodman Kiryat Yam ."
 }

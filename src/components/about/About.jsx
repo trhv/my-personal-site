@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import AboutMe from './AboutMe';
-import ExpertiesList from './ExpertiesList';
+import ExpertnessList from './ExpertnessList';
 
 export default class About extends Component {
 
@@ -8,7 +8,7 @@ export default class About extends Component {
         return (
             <div>
                 <AboutMe />
-                <ExpertiesList />
+                <ExpertnessList />
             </div>
         )
     }

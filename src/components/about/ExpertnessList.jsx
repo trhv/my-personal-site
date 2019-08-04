@@ -1,15 +1,15 @@
 import React, { Component } from 'react'
-import Experties from './Experties';
+import Expertise from './Expertise';
 import data from '../../data.json';
 
 
 export default class About extends Component {
 
-    getExperties = () => {
-        let experties = data.experties;
-        return experties.map((expertie, index) => {
+    getExpertness = () => {
+        let expertness = data.expertness;
+        return expertness.map((expertise, index) => {
             return (
-                <Experties name={expertie.name} description={expertie.description} icon={expertie.icon} color={index+1}></Experties>
+                <Expertise name={expertise.name} description={expertise.description} icon={expertise.icon} color={index+1}></Expertise>
             )
         });
     }
@@ -26,7 +26,7 @@ export default class About extends Component {
                         </div>
                     </div>
                     <div className="row row-pt-md">
-                        {this.getExperties()}
+                        {this.getExpertness()}
                     </div>
                 </div>
             </section>

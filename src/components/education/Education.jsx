@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import data from '../../data.json';
-
-let text="<b>B.Sc Software Engineering</b>, ORT Braude College in Karmiel, Holder of a Diploma of Electrical Engineering - Electronics, School of Technology Rodman Kiryat Yam .";
+import Parser from 'html-react-parser';
 
 export default class Education extends Component {
   
@@ -25,9 +24,7 @@ export default class Education extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <p><b>B.Sc Software Engineering</b>, ORT Braude College in Karmiel, Holder of a Diploma of Electrical Engineering - Electronics, School of Technology Rodman Kiryat Yam .</p>
-                        <p>{data.education}</p>
-                        <p>{text}</p>
+                        <p>{Parser(data.education)}</p>
                       </div>
                     </div>
                   </article>
